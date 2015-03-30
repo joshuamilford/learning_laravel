@@ -2,10 +2,6 @@
 
 @section('content')
 
-{! Form::open() !}
-{! Form::text('test') !}
-{! Form::close() !}
-
 <div class="container">
 	<div class="row">
 		<div class="col-md-10 col-md-offset-1">
